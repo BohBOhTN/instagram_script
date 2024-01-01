@@ -1,0 +1,4 @@
+instagram link        //input[@id='downloaderform-url']
+download_buttom         //button[@id='search']
+
+a tag for image downloading     //a[@class='download-button btn btn-primary downloader-modal-w']
